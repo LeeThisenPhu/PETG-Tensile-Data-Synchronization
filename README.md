@@ -164,7 +164,10 @@ Bộ kiểm thử bao gồm đọc log, tái dựng timestamp, nội suy an toà
 
 ## Tác giả
 
-Dự án được phát triển phục vụ nghiên cứu cơ tính vật liệu PETG in 3D theo mẫu kéo ISO 527-2 loại 1B.
+Lê Thiên Phú - Chuyên ngành Cơ kỹ thuật - HCMUT. Linked in: www.linkedin.com/in/lethienphu2004
+
+
+
 
 ## Giấy phép
 
